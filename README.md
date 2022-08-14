@@ -15,7 +15,7 @@ Today I create with html and css file for Car_animation. I use here html and css
 > *STEP-2:*  enter the `Car_animation` folder that appears <br/>
 > *STEP-3:*  open the folder you are in in a text editor <br/>
 > *STEP-4:*  run the  all the`index.html` files in the main folder <br/>
-> *STEP-5:*  to download the project as `.zip`  [here](https://github.com/cavidsuleyman/Ballon-Game/archive/refs/heads/master.zip) click <br/>
+> *STEP-5:*  to download the project as `.zip`  [here](https://github.com/IlkinLion/car_animation/archive/refs/heads/main.zip) click <br/>
 
 
 ## Technology
